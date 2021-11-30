@@ -1,0 +1,13 @@
+{
+  "name": "serum-dex-volume-booster",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "src/app.js",
+  "author": "v0idum",
+  "license": "ISC",
+  "dependencies": {
+    "@project-serum/serum": "^0.13.60",
+    "@solana/web3.js": "^1.30.2"
+  }
+}
